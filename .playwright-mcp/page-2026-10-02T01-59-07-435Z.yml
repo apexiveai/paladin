@@ -1,0 +1,222 @@
+- generic [ref=e3]:
+  - complementary [ref=e4]:
+    - generic [ref=e10]:
+      - generic [ref=e11]: APEXIVE
+      - generic [ref=e12]: Workforce AI
+    - generic [ref=e13]:
+      - generic [ref=e14]: Operations
+      - navigation [ref=e15]:
+        - link "Overview" [ref=e16] [cursor=pointer]:
+          - /url: /
+        - link "Workforce" [ref=e23] [cursor=pointer]:
+          - /url: /workforce
+        - link "Assignments" [ref=e30] [cursor=pointer]:
+          - /url: /assignments
+        - link "Attendance" [ref=e37] [cursor=pointer]:
+          - /url: /attendance
+        - link "Payroll" [ref=e43] [cursor=pointer]:
+          - /url: /payroll
+        - link "Sites" [ref=e48] [cursor=pointer]:
+          - /url: /sites
+    - generic [ref=e54]:
+      - generic [ref=e55]: Intelligence
+      - navigation [ref=e56]:
+        - link "Attendance AI AI" [ref=e57] [cursor=pointer]:
+          - /url: /attendance-ai
+          - generic [ref=e70]: Attendance AI
+          - generic [ref=e71]: AI
+        - link "OCR Verification" [ref=e72] [cursor=pointer]:
+          - /url: /ocr-verification
+        - link "Reports" [ref=e81] [cursor=pointer]:
+          - /url: /reports
+    - generic [ref=e86]:
+      - generic [ref=e87]: System
+      - navigation [ref=e88]:
+        - link "Settings" [ref=e89] [cursor=pointer]:
+          - /url: /settings
+        - link "Security" [ref=e94] [cursor=pointer]:
+          - /url: /security
+    - generic [ref=e101]:
+      - generic [ref=e102]: System Status
+      - generic [ref=e105]: All Systems Operational
+      - generic [ref=e106]: AI Engine · Database · API
+  - generic [ref=e107]:
+    - banner [ref=e108]:
+      - generic [ref=e110]:
+        - generic [ref=e111]: APEXIVE
+        - generic [ref=e114]: Overview
+      - generic [ref=e115]:
+        - generic [ref=e120]:
+          - strong [ref=e121]: API Offline
+          - generic [ref=e122]: Backend unavailable
+        - button "Search" [ref=e124] [cursor=pointer]
+        - button "Notifications" [ref=e128] [cursor=pointer]
+        - generic [ref=e137]:
+          - generic [ref=e138]: Administrator
+          - generic [ref=e139]: System Admin
+    - main [ref=e140]:
+      - generic [ref=e141]:
+        - generic [ref=e142]:
+          - generic [ref=e143]: APEXIVE AI OPERATIONS
+          - heading "Workforce Command Center" [level=1] [ref=e147]
+          - paragraph [ref=e148]: Monitor workforce, attendance, assignments and payroll from a single operational intelligence layer.
+        - button "Generate AI Report" [ref=e149] [cursor=pointer]
+      - generic [ref=e162]:
+        - generic [ref=e163]:
+          - generic [ref=e164]: +4.8%
+          - generic [ref=e175]: Total Workforce
+          - generic [ref=e176]: 1,248
+          - generic [ref=e177]: vs previous month
+        - generic [ref=e178]:
+          - generic [ref=e179]: +1.9%
+          - generic [ref=e188]: Attendance Rate
+          - generic [ref=e189]: 96.8%
+          - generic [ref=e190]: monthly average
+        - generic [ref=e191]:
+          - generic [ref=e192]: "+2"
+          - generic [ref=e202]: Active Sites
+          - generic [ref=e203]: "12"
+          - generic [ref=e204]: operational locations
+        - generic [ref=e205]:
+          - generic [ref=e206]: +3.6%
+          - generic [ref=e215]: Monthly Payroll
+          - generic [ref=e216]: 384.2M
+          - generic [ref=e217]: MMK projected
+      - generic [ref=e218]:
+        - generic [ref=e219]:
+          - generic [ref=e220]:
+            - generic [ref=e221]:
+              - generic [ref=e222]: Workforce Network
+              - heading "Workforce Overview" [level=2] [ref=e225]
+              - paragraph [ref=e226]: Live operational distribution across active sites.
+            - button "View all" [ref=e227] [cursor=pointer]
+          - generic [ref=e231]:
+            - generic [ref=e232]:
+              - generic [ref=e237]: APEXIVE
+              - generic [ref=e238]: Workforce Core
+            - generic [ref=e241]:
+              - generic [ref=e242]: HQ
+              - strong [ref=e243]: "184"
+            - generic [ref=e244]:
+              - generic [ref=e245]: S01
+              - strong [ref=e246]: "246"
+            - generic [ref=e247]:
+              - generic [ref=e248]: S02
+              - strong [ref=e249]: "198"
+            - generic [ref=e250]:
+              - generic [ref=e251]: S03
+              - strong [ref=e252]: "221"
+            - generic [ref=e253]:
+              - generic [ref=e254]: S04
+              - strong [ref=e255]: "173"
+          - generic [ref=e259]:
+            - generic [ref=e260]:
+              - generic [ref=e261]:
+                - generic [ref=e262]: HQ
+                - generic [ref=e263]:
+                  - generic [ref=e264]: Head Office
+                  - generic [ref=e265]: 184 workers
+              - generic [ref=e266]: 98.4%
+            - generic [ref=e268]:
+              - generic [ref=e269]:
+                - generic [ref=e270]: S01
+                - generic [ref=e271]:
+                  - generic [ref=e272]: Industrial Zone
+                  - generic [ref=e273]: 246 workers
+              - generic [ref=e274]: 97.1%
+            - generic [ref=e276]:
+              - generic [ref=e277]:
+                - generic [ref=e278]: S02
+                - generic [ref=e279]:
+                  - generic [ref=e280]: Commercial Center
+                  - generic [ref=e281]: 198 workers
+              - generic [ref=e282]: 96.5%
+            - generic [ref=e284]:
+              - generic [ref=e285]:
+                - generic [ref=e286]: S03
+                - generic [ref=e287]:
+                  - generic [ref=e288]: Logistics Hub
+                  - generic [ref=e289]: 221 workers
+              - generic [ref=e290]: 95.8%
+        - generic [ref=e292]:
+          - generic [ref=e293]:
+            - generic [ref=e294]:
+              - generic [ref=e295]: Attendance Intelligence
+              - heading "Daily Attendance" [level=2] [ref=e299]
+              - paragraph [ref=e300]: Current workforce attendance status.
+            - generic [ref=e301]: LIVE
+          - generic [ref=e302]:
+            - generic [ref=e307]:
+              - strong [ref=e308]: 96.8%
+              - text: Present
+            - generic [ref=e309]:
+              - generic [ref=e311]:
+                - strong [ref=e312]: 1,208
+                - text: Present
+              - generic [ref=e314]:
+                - strong [ref=e315]: "40"
+                - text: Absent
+              - generic [ref=e317]:
+                - strong [ref=e318]: "18"
+                - text: Late
+          - generic [ref=e319]:
+            - generic [ref=e320]: Last sync
+            - strong [ref=e324]: Just now
+        - generic [ref=e325]:
+          - generic [ref=e326]:
+            - generic [ref=e327]:
+              - generic [ref=e328]: Payroll Intelligence
+              - heading "October 2026 Payroll" [level=2] [ref=e331]
+              - paragraph [ref=e332]: Current monthly payroll processing state.
+            - button "Details" [ref=e333] [cursor=pointer]
+          - generic [ref=e337]:
+            - text: Total projected payroll
+            - strong [ref=e338]: 384.2M MMK
+          - generic [ref=e340]:
+            - generic [ref=e341]:
+              - text: Approved
+              - strong [ref=e342]: 82%
+            - generic [ref=e343]:
+              - text: Pending
+              - strong [ref=e344]: 14%
+            - generic [ref=e345]:
+              - text: Exception
+              - strong [ref=e346]: 4%
+          - generic [ref=e347]:
+            - generic [ref=e348]:
+              - text: Processed workers
+              - strong [ref=e349]: 1,024
+            - generic [ref=e350]:
+              - text: Awaiting verification
+              - strong [ref=e351]: "174"
+            - generic [ref=e352]:
+              - text: Exceptions
+              - strong [ref=e353]: "50"
+        - generic [ref=e354]:
+          - generic [ref=e355]:
+            - generic [ref=e356]:
+              - generic [ref=e357]: System Activity
+              - heading "Recent Activity" [level=2] [ref=e360]
+              - paragraph [ref=e361]: Latest workforce intelligence events.
+            - generic [ref=e362]: System online
+          - generic [ref=e363]:
+            - generic [ref=e364]:
+              - generic [ref=e369]:
+                - strong [ref=e370]: Attendance batch verified
+                - text: 48 worker records approved
+              - time [ref=e371]: 2 min ago
+            - generic [ref=e372]:
+              - generic [ref=e386]:
+                - strong [ref=e387]: AI attendance analysis
+                - text: 17 records require review
+              - time [ref=e388]: 11 min ago
+            - generic [ref=e389]:
+              - generic [ref=e394]:
+                - strong [ref=e395]: Payroll calculation completed
+                - text: October payroll processed
+              - time [ref=e396]: 28 min ago
+            - generic [ref=e397]:
+              - generic [ref=e404]:
+                - strong [ref=e405]: Assignment updated
+                - text: 12 workers reassigned
+              - time [ref=e406]: 42 min ago

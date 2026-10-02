@@ -1,0 +1,266 @@
+- generic [ref=f2e3]:
+  - complementary [ref=f2e4]:
+    - generic [ref=f2e10]:
+      - generic [ref=f2e11]: APEXIVE
+      - generic [ref=f2e12]: Workforce AI
+    - generic [ref=f2e13]:
+      - generic [ref=f2e14]: Operations
+      - navigation [ref=f2e15]:
+        - link "Overview" [ref=f2e16] [cursor=pointer]:
+          - /url: /
+        - link "Workforce" [active] [ref=f2e23] [cursor=pointer]:
+          - /url: /workforce
+        - link "Assignments" [ref=f2e30] [cursor=pointer]:
+          - /url: /assignments
+        - link "Attendance" [ref=f2e37] [cursor=pointer]:
+          - /url: /attendance
+        - link "Payroll" [ref=f2e43] [cursor=pointer]:
+          - /url: /payroll
+        - link "Sites" [ref=f2e48] [cursor=pointer]:
+          - /url: /sites
+    - generic [ref=f2e54]:
+      - generic [ref=f2e55]: Intelligence
+      - navigation [ref=f2e56]:
+        - link "Attendance AI AI" [ref=f2e57] [cursor=pointer]:
+          - /url: /attendance-ai
+          - generic [ref=f2e70]: Attendance AI
+          - generic [ref=f2e71]: AI
+        - link "OCR Verification" [ref=f2e72] [cursor=pointer]:
+          - /url: /ocr-verification
+        - link "Reports" [ref=f2e81] [cursor=pointer]:
+          - /url: /reports
+    - generic [ref=f2e86]:
+      - generic [ref=f2e87]: System
+      - navigation [ref=f2e88]:
+        - link "Settings" [ref=f2e89] [cursor=pointer]:
+          - /url: /settings
+        - link "Security" [ref=f2e94] [cursor=pointer]:
+          - /url: /security
+    - generic [ref=f2e101]:
+      - generic [ref=f2e102]: System Status
+      - generic [ref=f2e105]: All Systems Operational
+      - generic [ref=f2e106]: AI Engine · Database · API
+  - generic [ref=f2e107]:
+    - banner [ref=f2e108]:
+      - generic [ref=f2e110]:
+        - generic [ref=f2e111]: APEXIVE
+        - generic [ref=f2e114]: Workforce
+      - generic [ref=f2e115]:
+        - generic [ref=f2e120]:
+          - strong [ref=f2e121]: API Offline
+          - generic [ref=f2e122]: Backend unavailable
+        - button "Search" [ref=f2e124] [cursor=pointer]
+        - button "Notifications" [ref=f2e128] [cursor=pointer]
+        - generic [ref=f2e137]:
+          - generic [ref=f2e138]: Administrator
+          - generic [ref=f2e139]: System Admin
+    - main [ref=f2e982]:
+      - generic [ref=f2e983]:
+        - generic [ref=f2e984]:
+          - generic [ref=f2e985]: WORKFORCE MANAGEMENT
+          - heading "Workforce" [level=1] [ref=f2e991]
+          - paragraph [ref=f2e992]: Manage security personnel, assignments and operational workforce status.
+        - button "Add Worker" [ref=f2e993] [cursor=pointer]
+      - generic [ref=f2e997]:
+        - generic [ref=f2e998]:
+          - generic [ref=f2e1005]:
+            - generic [ref=f2e1006]: Total Workforce
+            - strong [ref=f2e1007]: 1,248
+          - generic [ref=f2e1008]: Registered workers
+        - generic [ref=f2e1009]:
+          - generic [ref=f2e1014]:
+            - generic [ref=f2e1015]: Active
+            - strong [ref=f2e1016]: "1246"
+          - generic [ref=f2e1017]: Currently operational
+        - generic [ref=f2e1018]:
+          - generic [ref=f2e1024]:
+            - generic [ref=f2e1025]: On Leave
+            - strong [ref=f2e1026]: "10"
+          - generic [ref=f2e1027]: Temporary unavailable
+        - generic [ref=f2e1028]:
+          - generic [ref=f2e1034]:
+            - generic [ref=f2e1035]: Assigned Sites
+            - strong [ref=f2e1036]: "12"
+          - generic [ref=f2e1037]: Active client locations
+      - generic [ref=f2e1038]:
+        - generic [ref=f2e1039]:
+          - generic [ref=f2e1040]:
+            - generic [ref=f2e1041]: Personnel Registry
+            - heading "Worker Directory" [level=2] [ref=f2e1045]
+            - paragraph [ref=f2e1046]: 10 workers displayed
+          - generic [ref=f2e1047]:
+            - textbox "Search workers..." [ref=f2e1052]
+            - combobox [ref=f2e1056] [cursor=pointer]:
+              - option "All Status" [selected]
+              - option "Active"
+              - option "On Leave"
+              - option "Inactive"
+        - table [ref=f2e1060]:
+          - rowgroup [ref=f2e1061]:
+            - row [ref=f2e1062]:
+              - columnheader "Worker" [ref=f2e1063]
+              - columnheader "Role" [ref=f2e1064]
+              - columnheader "Site" [ref=f2e1065]
+              - columnheader "Assignment" [ref=f2e1066]
+              - columnheader "Status" [ref=f2e1067]
+              - columnheader "Attendance" [ref=f2e1068]
+              - columnheader [ref=f2e1069]
+          - rowgroup [ref=f2e1070]:
+            - row [ref=f2e1071]:
+              - cell "AM Aung Min SEC-0001" [ref=f2e1072]:
+                - generic [ref=f2e1073]:
+                  - generic [ref=f2e1074]: AM
+                  - generic [ref=f2e1075]:
+                    - strong [ref=f2e1076]: Aung Min
+                    - generic [ref=f2e1077]: SEC-0001
+              - cell "Security Guard" [ref=f2e1078]
+              - cell "Head Office" [ref=f2e1079]
+              - cell "Main Gate" [ref=f2e1085]
+              - cell "Active" [ref=f2e1086]
+              - cell [ref=f2e1089]:
+                - strong [ref=f2e1091]: 98%
+              - cell [ref=f2e1094]:
+                - button "Open Aung Min" [ref=f2e1095] [cursor=pointer]
+            - row [ref=f2e1100]:
+              - cell "KZ Kyaw Zin SEC-0002" [ref=f2e1101]:
+                - generic [ref=f2e1102]:
+                  - generic [ref=f2e1103]: KZ
+                  - generic [ref=f2e1104]:
+                    - strong [ref=f2e1105]: Kyaw Zin
+                    - generic [ref=f2e1106]: SEC-0002
+              - cell "Security Guard" [ref=f2e1107]
+              - cell "Industrial Zone" [ref=f2e1108]
+              - cell "Gate A" [ref=f2e1114]
+              - cell "Active" [ref=f2e1115]
+              - cell [ref=f2e1118]:
+                - strong [ref=f2e1120]: 96%
+              - cell [ref=f2e1123]:
+                - button "Open Kyaw Zin" [ref=f2e1124] [cursor=pointer]
+            - row [ref=f2e1129]:
+              - cell "MT Min Thu SEC-0003" [ref=f2e1130]:
+                - generic [ref=f2e1131]:
+                  - generic [ref=f2e1132]: MT
+                  - generic [ref=f2e1133]:
+                    - strong [ref=f2e1134]: Min Thu
+                    - generic [ref=f2e1135]: SEC-0003
+              - cell "Senior Guard" [ref=f2e1136]
+              - cell "Commercial Center" [ref=f2e1137]
+              - cell "Control Room" [ref=f2e1143]
+              - cell "Active" [ref=f2e1144]
+              - cell [ref=f2e1147]:
+                - strong [ref=f2e1149]: 99%
+              - cell [ref=f2e1152]:
+                - button "Open Min Thu" [ref=f2e1153] [cursor=pointer]
+            - row [ref=f2e1158]:
+              - cell "ZL Zaw Lin SEC-0004" [ref=f2e1159]:
+                - generic [ref=f2e1160]:
+                  - generic [ref=f2e1161]: ZL
+                  - generic [ref=f2e1162]:
+                    - strong [ref=f2e1163]: Zaw Lin
+                    - generic [ref=f2e1164]: SEC-0004
+              - cell "Security Guard" [ref=f2e1165]
+              - cell "Logistics Hub" [ref=f2e1166]
+              - cell "Warehouse" [ref=f2e1172]
+              - cell "On Leave" [ref=f2e1173]
+              - cell [ref=f2e1176]:
+                - strong [ref=f2e1178]: 94%
+              - cell [ref=f2e1181]:
+                - button "Open Zaw Lin" [ref=f2e1182] [cursor=pointer]
+            - row [ref=f2e1187]:
+              - cell "HN Htet Naing SEC-0005" [ref=f2e1188]:
+                - generic [ref=f2e1189]:
+                  - generic [ref=f2e1190]: HN
+                  - generic [ref=f2e1191]:
+                    - strong [ref=f2e1192]: Htet Naing
+                    - generic [ref=f2e1193]: SEC-0005
+              - cell "Security Guard" [ref=f2e1194]
+              - cell "Residential Complex" [ref=f2e1195]
+              - cell "Building A" [ref=f2e1201]
+              - cell "Active" [ref=f2e1202]
+              - cell [ref=f2e1205]:
+                - strong [ref=f2e1207]: 97%
+              - cell [ref=f2e1210]:
+                - button "Open Htet Naing" [ref=f2e1211] [cursor=pointer]
+            - row [ref=f2e1216]:
+              - cell "KK Ko Ko SEC-0006" [ref=f2e1217]:
+                - generic [ref=f2e1218]:
+                  - generic [ref=f2e1219]: KK
+                  - generic [ref=f2e1220]:
+                    - strong [ref=f2e1221]: Ko Ko
+                    - generic [ref=f2e1222]: SEC-0006
+              - cell "Security Guard" [ref=f2e1223]
+              - cell "Head Office" [ref=f2e1224]
+              - cell "Parking Area" [ref=f2e1230]
+              - cell "Active" [ref=f2e1231]
+              - cell [ref=f2e1234]:
+                - strong [ref=f2e1236]: 95%
+              - cell [ref=f2e1239]:
+                - button "Open Ko Ko" [ref=f2e1240] [cursor=pointer]
+            - row [ref=f2e1245]:
+              - cell "TA Thura Aung SEC-0007" [ref=f2e1246]:
+                - generic [ref=f2e1247]:
+                  - generic [ref=f2e1248]: TA
+                  - generic [ref=f2e1249]:
+                    - strong [ref=f2e1250]: Thura Aung
+                    - generic [ref=f2e1251]: SEC-0007
+              - cell "Senior Guard" [ref=f2e1252]
+              - cell "Industrial Zone" [ref=f2e1253]
+              - cell "Gate B" [ref=f2e1259]
+              - cell "Active" [ref=f2e1260]
+              - cell [ref=f2e1263]:
+                - strong [ref=f2e1265]: 99%
+              - cell [ref=f2e1268]:
+                - button "Open Thura Aung" [ref=f2e1269] [cursor=pointer]
+            - row [ref=f2e1274]:
+              - cell "YM Ye Min SEC-0008" [ref=f2e1275]:
+                - generic [ref=f2e1276]:
+                  - generic [ref=f2e1277]: YM
+                  - generic [ref=f2e1278]:
+                    - strong [ref=f2e1279]: Ye Min
+                    - generic [ref=f2e1280]: SEC-0008
+              - cell "Security Guard" [ref=f2e1281]
+              - cell "Commercial Center" [ref=f2e1282]
+              - cell "Lobby" [ref=f2e1288]
+              - cell "Inactive" [ref=f2e1289]
+              - cell [ref=f2e1292]:
+                - strong [ref=f2e1294]: 88%
+              - cell [ref=f2e1297]:
+                - button "Open Ye Min" [ref=f2e1298] [cursor=pointer]
+            - row [ref=f2e1303]:
+              - cell "NL Nay Lin SEC-0009" [ref=f2e1304]:
+                - generic [ref=f2e1305]:
+                  - generic [ref=f2e1306]: NL
+                  - generic [ref=f2e1307]:
+                    - strong [ref=f2e1308]: Nay Lin
+                    - generic [ref=f2e1309]: SEC-0009
+              - cell "Security Guard" [ref=f2e1310]
+              - cell "Logistics Hub" [ref=f2e1311]
+              - cell "Loading Bay" [ref=f2e1317]
+              - cell "Active" [ref=f2e1318]
+              - cell [ref=f2e1321]:
+                - strong [ref=f2e1323]: 97%
+              - cell [ref=f2e1326]:
+                - button "Open Nay Lin" [ref=f2e1327] [cursor=pointer]
+            - row [ref=f2e1332]:
+              - cell "WH Win Htet SEC-0010" [ref=f2e1333]:
+                - generic [ref=f2e1334]:
+                  - generic [ref=f2e1335]: WH
+                  - generic [ref=f2e1336]:
+                    - strong [ref=f2e1337]: Win Htet
+                    - generic [ref=f2e1338]: SEC-0010
+              - cell "Team Leader" [ref=f2e1339]
+              - cell "Residential Complex" [ref=f2e1340]
+              - cell "Security Office" [ref=f2e1346]
+              - cell "Active" [ref=f2e1347]
+              - cell [ref=f2e1350]:
+                - strong [ref=f2e1352]: 100%
+              - cell [ref=f2e1355]:
+                - button "Open Win Htet" [ref=f2e1356] [cursor=pointer]
+        - generic [ref=f2e1361]:
+          - generic [ref=f2e1362]: Showing 10 of 1,248 workers
+          - generic [ref=f2e1363]:
+            - button "Previous" [disabled] [ref=f2e1364]
+            - button "1" [ref=f2e1365] [cursor=pointer]
+            - button "2" [ref=f2e1366] [cursor=pointer]
+            - button "3" [ref=f2e1367] [cursor=pointer]
+            - button "Next" [ref=f2e1368] [cursor=pointer]

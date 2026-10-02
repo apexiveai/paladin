@@ -1,0 +1,330 @@
+- generic [ref=f1e3]:
+  - complementary [ref=f1e4]:
+    - generic [ref=f1e10]:
+      - generic [ref=f1e11]: APEXIVE
+      - generic [ref=f1e12]: Workforce AI
+    - generic [ref=f1e13]:
+      - generic [ref=f1e14]: Operations
+      - navigation [ref=f1e15]:
+        - link "Overview" [ref=f1e16] [cursor=pointer]:
+          - /url: /
+        - link "Workforce" [ref=f1e23] [cursor=pointer]:
+          - /url: /workforce
+        - link "Assignments" [ref=f1e30] [cursor=pointer]:
+          - /url: /assignments
+        - link "Attendance" [ref=f1e37] [cursor=pointer]:
+          - /url: /attendance
+        - link "Payroll" [ref=f1e43] [cursor=pointer]:
+          - /url: /payroll
+        - link "Sites" [ref=f1e48] [cursor=pointer]:
+          - /url: /sites
+    - generic [ref=f1e54]:
+      - generic [ref=f1e55]: Intelligence
+      - navigation [ref=f1e56]:
+        - link "Attendance AI AI" [ref=f1e57] [cursor=pointer]:
+          - /url: /attendance-ai
+          - generic [ref=f1e70]: Attendance AI
+          - generic [ref=f1e71]: AI
+        - link "OCR Verification" [ref=f1e72] [cursor=pointer]:
+          - /url: /ocr-verification
+        - link "Reports" [ref=f1e81] [cursor=pointer]:
+          - /url: /reports
+    - generic [ref=f1e86]:
+      - generic [ref=f1e87]: System
+      - navigation [ref=f1e88]:
+        - link "Settings" [ref=f1e89] [cursor=pointer]:
+          - /url: /settings
+        - link "Security" [ref=f1e94] [cursor=pointer]:
+          - /url: /security
+    - generic [ref=f1e101]:
+      - generic [ref=f1e102]: System Status
+      - generic [ref=f1e105]: All Systems Operational
+      - generic [ref=f1e106]: AI Engine · Database · API
+  - generic [ref=f1e107]:
+    - banner [ref=f1e108]:
+      - generic [ref=f1e110]:
+        - generic [ref=f1e111]: APEXIVE
+        - generic [ref=f1e114]: Assignments
+      - generic [ref=f1e115]:
+        - generic [ref=f1e120]:
+          - strong [ref=f1e121]: API Offline
+          - generic [ref=f1e122]: Backend unavailable
+        - button "Search" [ref=f1e124] [cursor=pointer]
+        - button "Notifications" [ref=f1e128] [cursor=pointer]
+        - generic [ref=f1e137]:
+          - generic [ref=f1e138]: Administrator
+          - generic [ref=f1e139]: System Admin
+    - main [ref=f1e140]:
+      - generic [ref=f1e141]:
+        - generic [ref=f1e142]:
+          - generic [ref=f1e143]: OPERATIONS MANAGEMENT
+          - heading "Assignments" [level=1] [ref=f1e149]
+          - paragraph [ref=f1e150]: Connect workforce personnel with client sites, positions and operational shifts.
+        - button "New Assignment" [ref=f1e151] [cursor=pointer]
+      - generic [ref=f1e155]:
+        - generic [ref=f1e156]:
+          - generic [ref=f1e163]:
+            - generic [ref=f1e164]: Total Assignments
+            - strong [ref=f1e165]: 1,204
+          - generic [ref=f1e166]: Current workforce allocation
+        - generic [ref=f1e167]:
+          - generic [ref=f1e172]:
+            - generic [ref=f1e173]: Active
+            - strong [ref=f1e174]: "1202"
+          - generic [ref=f1e175]: Currently deployed
+        - generic [ref=f1e176]:
+          - generic [ref=f1e181]:
+            - generic [ref=f1e182]: Pending
+            - strong [ref=f1e183]: "7"
+          - generic [ref=f1e184]: Awaiting activation
+        - generic [ref=f1e185]:
+          - generic [ref=f1e190]:
+            - generic [ref=f1e191]: Completed
+            - strong [ref=f1e192]: "3"
+          - generic [ref=f1e193]: Recently closed
+      - generic [ref=f1e194]:
+        - generic [ref=f1e195]:
+          - generic [ref=f1e196]:
+            - generic [ref=f1e197]: Workforce Allocation
+            - heading "Assignment Network" [level=2] [ref=f1e203]
+            - paragraph [ref=f1e204]: 8 assignments displayed
+          - generic [ref=f1e205]:
+            - textbox "Search assignments..." [ref=f1e210]
+            - combobox [ref=f1e214] [cursor=pointer]:
+              - option "All Status" [selected]
+              - option "Active"
+              - option "Pending"
+              - option "Completed"
+        - generic [ref=f1e215]:
+          - generic [ref=f1e216]:
+            - generic [ref=f1e217]:
+              - generic [ref=f1e225]:
+                - strong [ref=f1e226]: ASN-0001
+                - generic [ref=f1e227]: Main Gate
+              - generic [ref=f1e228]: Active
+              - button "Assignment actions" [ref=f1e230] [cursor=pointer]
+            - generic [ref=f1e235]:
+              - generic [ref=f1e243]:
+                - generic [ref=f1e244]: WORKER
+                - strong [ref=f1e245]: Aung Min
+                - generic [ref=f1e246]: SEC-0001
+              - generic [ref=f1e256]:
+                - generic [ref=f1e257]: SITE
+                - strong [ref=f1e258]: Head Office
+                - generic [ref=f1e259]: Yangon
+            - generic [ref=f1e260]:
+              - generic [ref=f1e261]:
+                - generic [ref=f1e262]: Shift
+                - strong [ref=f1e263]: Day Shift
+              - generic [ref=f1e264]:
+                - generic [ref=f1e265]: Schedule
+                - strong [ref=f1e266]: 06:00 — 18:00
+              - generic [ref=f1e267]:
+                - generic [ref=f1e268]: Workforce
+                - strong [ref=f1e269]: 24 guards
+            - generic [ref=f1e270]:
+              - generic [ref=f1e271]: Yangon
+              - button "View assignment" [ref=f1e275] [cursor=pointer]
+          - generic [ref=f1e278]:
+            - generic [ref=f1e279]:
+              - generic [ref=f1e287]:
+                - strong [ref=f1e288]: ASN-0002
+                - generic [ref=f1e289]: Gate A
+              - generic [ref=f1e290]: Active
+              - button "Assignment actions" [ref=f1e292] [cursor=pointer]
+            - generic [ref=f1e297]:
+              - generic [ref=f1e305]:
+                - generic [ref=f1e306]: WORKER
+                - strong [ref=f1e307]: Kyaw Zin
+                - generic [ref=f1e308]: SEC-0002
+              - generic [ref=f1e318]:
+                - generic [ref=f1e319]: SITE
+                - strong [ref=f1e320]: Industrial Zone
+                - generic [ref=f1e321]: Hlaing Tharyar
+            - generic [ref=f1e322]:
+              - generic [ref=f1e323]:
+                - generic [ref=f1e324]: Shift
+                - strong [ref=f1e325]: Night Shift
+              - generic [ref=f1e326]:
+                - generic [ref=f1e327]: Schedule
+                - strong [ref=f1e328]: 18:00 — 06:00
+              - generic [ref=f1e329]:
+                - generic [ref=f1e330]: Workforce
+                - strong [ref=f1e331]: 42 guards
+            - generic [ref=f1e332]:
+              - generic [ref=f1e333]: Hlaing Tharyar
+              - button "View assignment" [ref=f1e337] [cursor=pointer]
+          - generic [ref=f1e340]:
+            - generic [ref=f1e341]:
+              - generic [ref=f1e349]:
+                - strong [ref=f1e350]: ASN-0003
+                - generic [ref=f1e351]: Control Room
+              - generic [ref=f1e352]: Active
+              - button "Assignment actions" [ref=f1e354] [cursor=pointer]
+            - generic [ref=f1e359]:
+              - generic [ref=f1e367]:
+                - generic [ref=f1e368]: WORKER
+                - strong [ref=f1e369]: Min Thu
+                - generic [ref=f1e370]: SEC-0003
+              - generic [ref=f1e380]:
+                - generic [ref=f1e381]: SITE
+                - strong [ref=f1e382]: Commercial Center
+                - generic [ref=f1e383]: Downtown
+            - generic [ref=f1e384]:
+              - generic [ref=f1e385]:
+                - generic [ref=f1e386]: Shift
+                - strong [ref=f1e387]: Day Shift
+              - generic [ref=f1e388]:
+                - generic [ref=f1e389]: Schedule
+                - strong [ref=f1e390]: 06:00 — 18:00
+              - generic [ref=f1e391]:
+                - generic [ref=f1e392]: Workforce
+                - strong [ref=f1e393]: 31 guards
+            - generic [ref=f1e394]:
+              - generic [ref=f1e395]: Downtown
+              - button "View assignment" [ref=f1e399] [cursor=pointer]
+          - generic [ref=f1e402]:
+            - generic [ref=f1e403]:
+              - generic [ref=f1e411]:
+                - strong [ref=f1e412]: ASN-0004
+                - generic [ref=f1e413]: Warehouse
+              - generic [ref=f1e414]: Pending
+              - button "Assignment actions" [ref=f1e416] [cursor=pointer]
+            - generic [ref=f1e421]:
+              - generic [ref=f1e429]:
+                - generic [ref=f1e430]: WORKER
+                - strong [ref=f1e431]: Zaw Lin
+                - generic [ref=f1e432]: SEC-0004
+              - generic [ref=f1e442]:
+                - generic [ref=f1e443]: SITE
+                - strong [ref=f1e444]: Logistics Hub
+                - generic [ref=f1e445]: Dagon Seikkan
+            - generic [ref=f1e446]:
+              - generic [ref=f1e447]:
+                - generic [ref=f1e448]: Shift
+                - strong [ref=f1e449]: Night Shift
+              - generic [ref=f1e450]:
+                - generic [ref=f1e451]: Schedule
+                - strong [ref=f1e452]: 18:00 — 06:00
+              - generic [ref=f1e453]:
+                - generic [ref=f1e454]: Workforce
+                - strong [ref=f1e455]: 28 guards
+            - generic [ref=f1e456]:
+              - generic [ref=f1e457]: Dagon Seikkan
+              - button "View assignment" [ref=f1e461] [cursor=pointer]
+          - generic [ref=f1e464]:
+            - generic [ref=f1e465]:
+              - generic [ref=f1e473]:
+                - strong [ref=f1e474]: ASN-0005
+                - generic [ref=f1e475]: Building A
+              - generic [ref=f1e476]: Active
+              - button "Assignment actions" [ref=f1e478] [cursor=pointer]
+            - generic [ref=f1e483]:
+              - generic [ref=f1e491]:
+                - generic [ref=f1e492]: WORKER
+                - strong [ref=f1e493]: Htet Naing
+                - generic [ref=f1e494]: SEC-0005
+              - generic [ref=f1e504]:
+                - generic [ref=f1e505]: SITE
+                - strong [ref=f1e506]: Residential Complex
+                - generic [ref=f1e507]: Yankin
+            - generic [ref=f1e508]:
+              - generic [ref=f1e509]:
+                - generic [ref=f1e510]: Shift
+                - strong [ref=f1e511]: Day Shift
+              - generic [ref=f1e512]:
+                - generic [ref=f1e513]: Schedule
+                - strong [ref=f1e514]: 06:00 — 18:00
+              - generic [ref=f1e515]:
+                - generic [ref=f1e516]: Workforce
+                - strong [ref=f1e517]: 36 guards
+            - generic [ref=f1e518]:
+              - generic [ref=f1e519]: Yankin
+              - button "View assignment" [ref=f1e523] [cursor=pointer]
+          - generic [ref=f1e526]:
+            - generic [ref=f1e527]:
+              - generic [ref=f1e535]:
+                - strong [ref=f1e536]: ASN-0006
+                - generic [ref=f1e537]: Parking Area
+              - generic [ref=f1e538]: Active
+              - button "Assignment actions" [ref=f1e540] [cursor=pointer]
+            - generic [ref=f1e545]:
+              - generic [ref=f1e553]:
+                - generic [ref=f1e554]: WORKER
+                - strong [ref=f1e555]: Ko Ko
+                - generic [ref=f1e556]: SEC-0006
+              - generic [ref=f1e566]:
+                - generic [ref=f1e567]: SITE
+                - strong [ref=f1e568]: Head Office
+                - generic [ref=f1e569]: Yangon
+            - generic [ref=f1e570]:
+              - generic [ref=f1e571]:
+                - generic [ref=f1e572]: Shift
+                - strong [ref=f1e573]: Day Shift
+              - generic [ref=f1e574]:
+                - generic [ref=f1e575]: Schedule
+                - strong [ref=f1e576]: 06:00 — 18:00
+              - generic [ref=f1e577]:
+                - generic [ref=f1e578]: Workforce
+                - strong [ref=f1e579]: 18 guards
+            - generic [ref=f1e580]:
+              - generic [ref=f1e581]: Yangon
+              - button "View assignment" [ref=f1e585] [cursor=pointer]
+          - generic [ref=f1e588]:
+            - generic [ref=f1e589]:
+              - generic [ref=f1e597]:
+                - strong [ref=f1e598]: ASN-0007
+                - generic [ref=f1e599]: Gate B
+              - generic [ref=f1e600]: Active
+              - button "Assignment actions" [ref=f1e602] [cursor=pointer]
+            - generic [ref=f1e607]:
+              - generic [ref=f1e615]:
+                - generic [ref=f1e616]: WORKER
+                - strong [ref=f1e617]: Thura Aung
+                - generic [ref=f1e618]: SEC-0007
+              - generic [ref=f1e628]:
+                - generic [ref=f1e629]: SITE
+                - strong [ref=f1e630]: Industrial Zone
+                - generic [ref=f1e631]: Hlaing Tharyar
+            - generic [ref=f1e632]:
+              - generic [ref=f1e633]:
+                - generic [ref=f1e634]: Shift
+                - strong [ref=f1e635]: Night Shift
+              - generic [ref=f1e636]:
+                - generic [ref=f1e637]: Schedule
+                - strong [ref=f1e638]: 18:00 — 06:00
+              - generic [ref=f1e639]:
+                - generic [ref=f1e640]: Workforce
+                - strong [ref=f1e641]: 39 guards
+            - generic [ref=f1e642]:
+              - generic [ref=f1e643]: Hlaing Tharyar
+              - button "View assignment" [ref=f1e647] [cursor=pointer]
+          - generic [ref=f1e650]:
+            - generic [ref=f1e651]:
+              - generic [ref=f1e659]:
+                - strong [ref=f1e660]: ASN-0008
+                - generic [ref=f1e661]: Lobby
+              - generic [ref=f1e662]: Completed
+              - button "Assignment actions" [ref=f1e664] [cursor=pointer]
+            - generic [ref=f1e669]:
+              - generic [ref=f1e677]:
+                - generic [ref=f1e678]: WORKER
+                - strong [ref=f1e679]: Ye Min
+                - generic [ref=f1e680]: SEC-0008
+              - generic [ref=f1e690]:
+                - generic [ref=f1e691]: SITE
+                - strong [ref=f1e692]: Commercial Center
+                - generic [ref=f1e693]: Downtown
+            - generic [ref=f1e694]:
+              - generic [ref=f1e695]:
+                - generic [ref=f1e696]: Shift
+                - strong [ref=f1e697]: Day Shift
+              - generic [ref=f1e698]:
+                - generic [ref=f1e699]: Schedule
+                - strong [ref=f1e700]: 06:00 — 18:00
+              - generic [ref=f1e701]:
+                - generic [ref=f1e702]: Workforce
+                - strong [ref=f1e703]: 21 guards
+            - generic [ref=f1e704]:
+              - generic [ref=f1e705]: Downtown
+              - button "View assignment" [ref=f1e709] [cursor=pointer]

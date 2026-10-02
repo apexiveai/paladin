@@ -1,0 +1,266 @@
+- generic [ref=e3]:
+  - complementary [ref=e4]:
+    - generic [ref=e10]:
+      - generic [ref=e11]: APEXIVE
+      - generic [ref=e12]: Workforce AI
+    - generic [ref=e13]:
+      - generic [ref=e14]: Operations
+      - navigation [ref=e15]:
+        - link "Overview" [ref=e16] [cursor=pointer]:
+          - /url: /
+        - link "Workforce" [ref=e23] [cursor=pointer]:
+          - /url: /workforce
+        - link "Assignments" [ref=e30] [cursor=pointer]:
+          - /url: /assignments
+        - link "Attendance" [ref=e37] [cursor=pointer]:
+          - /url: /attendance
+        - link "Payroll" [ref=e43] [cursor=pointer]:
+          - /url: /payroll
+        - link "Sites" [ref=e48] [cursor=pointer]:
+          - /url: /sites
+    - generic [ref=e54]:
+      - generic [ref=e55]: Intelligence
+      - navigation [ref=e56]:
+        - link "Attendance AI AI" [ref=e57] [cursor=pointer]:
+          - /url: /attendance-ai
+          - generic [ref=e70]: Attendance AI
+          - generic [ref=e71]: AI
+        - link "OCR Verification" [ref=e72] [cursor=pointer]:
+          - /url: /ocr-verification
+        - link "Reports" [ref=e81] [cursor=pointer]:
+          - /url: /reports
+    - generic [ref=e86]:
+      - generic [ref=e87]: System
+      - navigation [ref=e88]:
+        - link "Settings" [ref=e89] [cursor=pointer]:
+          - /url: /settings
+        - link "Security" [ref=e94] [cursor=pointer]:
+          - /url: /security
+    - generic [ref=e101]:
+      - generic [ref=e102]: System Status
+      - generic [ref=e105]: All Systems Operational
+      - generic [ref=e106]: AI Engine · Database · API
+  - generic [ref=e107]:
+    - banner [ref=e108]:
+      - generic [ref=e110]:
+        - generic [ref=e111]: APEXIVE
+        - generic [ref=e114]: Workforce
+      - generic [ref=e115]:
+        - generic [ref=e120]:
+          - strong [ref=e121]: API Offline
+          - generic [ref=e122]: Backend unavailable
+        - button "Search" [ref=e124] [cursor=pointer]
+        - button "Notifications" [ref=e128] [cursor=pointer]
+        - generic [ref=e137]:
+          - generic [ref=e138]: Administrator
+          - generic [ref=e139]: System Admin
+    - main [ref=e140]:
+      - generic [ref=e141]:
+        - generic [ref=e142]:
+          - generic [ref=e143]: WORKFORCE MANAGEMENT
+          - heading "Workforce" [level=1] [ref=e149]
+          - paragraph [ref=e150]: Manage security personnel, assignments and operational workforce status.
+        - button "Add Worker" [ref=e151] [cursor=pointer]
+      - generic [ref=e155]:
+        - generic [ref=e156]:
+          - generic [ref=e163]:
+            - generic [ref=e164]: Total Workforce
+            - strong [ref=e165]: 1,248
+          - generic [ref=e166]: Registered workers
+        - generic [ref=e167]:
+          - generic [ref=e172]:
+            - generic [ref=e173]: Active
+            - strong [ref=e174]: "1246"
+          - generic [ref=e175]: Currently operational
+        - generic [ref=e176]:
+          - generic [ref=e182]:
+            - generic [ref=e183]: On Leave
+            - strong [ref=e184]: "10"
+          - generic [ref=e185]: Temporary unavailable
+        - generic [ref=e186]:
+          - generic [ref=e192]:
+            - generic [ref=e193]: Assigned Sites
+            - strong [ref=e194]: "12"
+          - generic [ref=e195]: Active client locations
+      - generic [ref=e196]:
+        - generic [ref=e197]:
+          - generic [ref=e198]:
+            - generic [ref=e199]: Personnel Registry
+            - heading "Worker Directory" [level=2] [ref=e203]
+            - paragraph [ref=e204]: 10 workers displayed
+          - generic [ref=e205]:
+            - textbox "Search workers..." [ref=e210]
+            - combobox [ref=e214] [cursor=pointer]:
+              - option "All Status" [selected]
+              - option "Active"
+              - option "On Leave"
+              - option "Inactive"
+        - table [ref=e218]:
+          - rowgroup [ref=e219]:
+            - row [ref=e220]:
+              - columnheader "Worker" [ref=e221]
+              - columnheader "Role" [ref=e222]
+              - columnheader "Site" [ref=e223]
+              - columnheader "Assignment" [ref=e224]
+              - columnheader "Status" [ref=e225]
+              - columnheader "Attendance" [ref=e226]
+              - columnheader [ref=e227]
+          - rowgroup [ref=e228]:
+            - row [ref=e229]:
+              - cell "AM Aung Min SEC-0001" [ref=e230]:
+                - generic [ref=e231]:
+                  - generic [ref=e232]: AM
+                  - generic [ref=e233]:
+                    - strong [ref=e234]: Aung Min
+                    - generic [ref=e235]: SEC-0001
+              - cell "Security Guard" [ref=e236]
+              - cell "Head Office" [ref=e237]
+              - cell "Main Gate" [ref=e243]
+              - cell "Active" [ref=e244]
+              - cell [ref=e247]:
+                - strong [ref=e249]: 98%
+              - cell [ref=e252]:
+                - button "Open Aung Min" [ref=e253] [cursor=pointer]
+            - row [ref=e258]:
+              - cell "KZ Kyaw Zin SEC-0002" [ref=e259]:
+                - generic [ref=e260]:
+                  - generic [ref=e261]: KZ
+                  - generic [ref=e262]:
+                    - strong [ref=e263]: Kyaw Zin
+                    - generic [ref=e264]: SEC-0002
+              - cell "Security Guard" [ref=e265]
+              - cell "Industrial Zone" [ref=e266]
+              - cell "Gate A" [ref=e272]
+              - cell "Active" [ref=e273]
+              - cell [ref=e276]:
+                - strong [ref=e278]: 96%
+              - cell [ref=e281]:
+                - button "Open Kyaw Zin" [ref=e282] [cursor=pointer]
+            - row [ref=e287]:
+              - cell "MT Min Thu SEC-0003" [ref=e288]:
+                - generic [ref=e289]:
+                  - generic [ref=e290]: MT
+                  - generic [ref=e291]:
+                    - strong [ref=e292]: Min Thu
+                    - generic [ref=e293]: SEC-0003
+              - cell "Senior Guard" [ref=e294]
+              - cell "Commercial Center" [ref=e295]
+              - cell "Control Room" [ref=e301]
+              - cell "Active" [ref=e302]
+              - cell [ref=e305]:
+                - strong [ref=e307]: 99%
+              - cell [ref=e310]:
+                - button "Open Min Thu" [ref=e311] [cursor=pointer]
+            - row [ref=e316]:
+              - cell "ZL Zaw Lin SEC-0004" [ref=e317]:
+                - generic [ref=e318]:
+                  - generic [ref=e319]: ZL
+                  - generic [ref=e320]:
+                    - strong [ref=e321]: Zaw Lin
+                    - generic [ref=e322]: SEC-0004
+              - cell "Security Guard" [ref=e323]
+              - cell "Logistics Hub" [ref=e324]
+              - cell "Warehouse" [ref=e330]
+              - cell "On Leave" [ref=e331]
+              - cell [ref=e334]:
+                - strong [ref=e336]: 94%
+              - cell [ref=e339]:
+                - button "Open Zaw Lin" [ref=e340] [cursor=pointer]
+            - row [ref=e345]:
+              - cell "HN Htet Naing SEC-0005" [ref=e346]:
+                - generic [ref=e347]:
+                  - generic [ref=e348]: HN
+                  - generic [ref=e349]:
+                    - strong [ref=e350]: Htet Naing
+                    - generic [ref=e351]: SEC-0005
+              - cell "Security Guard" [ref=e352]
+              - cell "Residential Complex" [ref=e353]
+              - cell "Building A" [ref=e359]
+              - cell "Active" [ref=e360]
+              - cell [ref=e363]:
+                - strong [ref=e365]: 97%
+              - cell [ref=e368]:
+                - button "Open Htet Naing" [ref=e369] [cursor=pointer]
+            - row [ref=e374]:
+              - cell "KK Ko Ko SEC-0006" [ref=e375]:
+                - generic [ref=e376]:
+                  - generic [ref=e377]: KK
+                  - generic [ref=e378]:
+                    - strong [ref=e379]: Ko Ko
+                    - generic [ref=e380]: SEC-0006
+              - cell "Security Guard" [ref=e381]
+              - cell "Head Office" [ref=e382]
+              - cell "Parking Area" [ref=e388]
+              - cell "Active" [ref=e389]
+              - cell [ref=e392]:
+                - strong [ref=e394]: 95%
+              - cell [ref=e397]:
+                - button "Open Ko Ko" [ref=e398] [cursor=pointer]
+            - row [ref=e403]:
+              - cell "TA Thura Aung SEC-0007" [ref=e404]:
+                - generic [ref=e405]:
+                  - generic [ref=e406]: TA
+                  - generic [ref=e407]:
+                    - strong [ref=e408]: Thura Aung
+                    - generic [ref=e409]: SEC-0007
+              - cell "Senior Guard" [ref=e410]
+              - cell "Industrial Zone" [ref=e411]
+              - cell "Gate B" [ref=e417]
+              - cell "Active" [ref=e418]
+              - cell [ref=e421]:
+                - strong [ref=e423]: 99%
+              - cell [ref=e426]:
+                - button "Open Thura Aung" [ref=e427] [cursor=pointer]
+            - row [ref=e432]:
+              - cell "YM Ye Min SEC-0008" [ref=e433]:
+                - generic [ref=e434]:
+                  - generic [ref=e435]: YM
+                  - generic [ref=e436]:
+                    - strong [ref=e437]: Ye Min
+                    - generic [ref=e438]: SEC-0008
+              - cell "Security Guard" [ref=e439]
+              - cell "Commercial Center" [ref=e440]
+              - cell "Lobby" [ref=e446]
+              - cell "Inactive" [ref=e447]
+              - cell [ref=e450]:
+                - strong [ref=e452]: 88%
+              - cell [ref=e455]:
+                - button "Open Ye Min" [ref=e456] [cursor=pointer]
+            - row [ref=e461]:
+              - cell "NL Nay Lin SEC-0009" [ref=e462]:
+                - generic [ref=e463]:
+                  - generic [ref=e464]: NL
+                  - generic [ref=e465]:
+                    - strong [ref=e466]: Nay Lin
+                    - generic [ref=e467]: SEC-0009
+              - cell "Security Guard" [ref=e468]
+              - cell "Logistics Hub" [ref=e469]
+              - cell "Loading Bay" [ref=e475]
+              - cell "Active" [ref=e476]
+              - cell [ref=e479]:
+                - strong [ref=e481]: 97%
+              - cell [ref=e484]:
+                - button "Open Nay Lin" [ref=e485] [cursor=pointer]
+            - row [ref=e490]:
+              - cell "WH Win Htet SEC-0010" [ref=e491]:
+                - generic [ref=e492]:
+                  - generic [ref=e493]: WH
+                  - generic [ref=e494]:
+                    - strong [ref=e495]: Win Htet
+                    - generic [ref=e496]: SEC-0010
+              - cell "Team Leader" [ref=e497]
+              - cell "Residential Complex" [ref=e498]
+              - cell "Security Office" [ref=e504]
+              - cell "Active" [ref=e505]
+              - cell [ref=e508]:
+                - strong [ref=e510]: 100%
+              - cell [ref=e513]:
+                - button "Open Win Htet" [ref=e514] [cursor=pointer]
+        - generic [ref=e519]:
+          - generic [ref=e520]: Showing 10 of 1,248 workers
+          - generic [ref=e521]:
+            - button "Previous" [disabled] [ref=e522]
+            - button "1" [ref=e523] [cursor=pointer]
+            - button "2" [ref=e524] [cursor=pointer]
+            - button "3" [ref=e525] [cursor=pointer]
+            - button "Next" [ref=e526] [cursor=pointer]
